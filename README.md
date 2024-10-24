@@ -6,7 +6,7 @@
 
 ![OpenSearch logo](OpenSearch.svg)
 
-OpenSearch Java Client
+OpenSearch Java Client!!
 
 - [Welcome!](#welcome)
 - [Sample Code](#sample-code)
